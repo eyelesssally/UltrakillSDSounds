@@ -1,0 +1,10 @@
+{
+  "name": "Ultrakill Sounds",
+  "description": "Assorted sound effects from the game Ultrakill",
+  "author": "Pepper³",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
